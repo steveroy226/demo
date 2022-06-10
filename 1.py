@@ -1,7 +1,5 @@
 print("HEllo world")
-ksdcksd
-dvnknvkf
-dfndkfnf
+print("good to see you")
 fdkkfknff
 fkdfkfnkfnsf
 fdskknf
